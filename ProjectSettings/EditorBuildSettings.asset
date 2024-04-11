@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d4a18c722dd17434da34febf7ad58b00
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/1. Despegue.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/2. Diente de leche.unity
+    guid: dcd56c71ca4af844a85a2a5e957c3ec3
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/3. La Mandibula.unity
+    guid: 3568479ac8cfc4c46beb7136f82c64a4
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/4. El Descenso.unity
+    guid: 1defc05be692a624c987cab2d868e56a
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/5. Segundo Descenso.unity
+    guid: 6c99e94e38200b64493be946f1074ad0
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/6. Rocas 3D.unity
+    guid: 19c54a26678c32f45a61773808a68633
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/7. Rocas 3D 4K.unity
+    guid: 8ff083efca303c14d8e365f6758f46a9
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/8. Piedras Gravitacionales.unity
+    guid: 4b1d0b1a50157fa478043c973f761e5e
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/9. Ascenso Gravitacional.unity
+    guid: c60db30e77ad4504dbe2cd45718321ac
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/10. Piedras Gravitacionales Caoticas.unity
+    guid: 83fa6847adc822e4aa89e6515ec53148
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/11. Piedras traicioneras.unity
+    guid: a091470a035a1f44a84e31bcebaec715
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/12. Ascenso traicionero.unity
+    guid: a1d009916d6ff2b4a9f8ff1f8eb2dcee
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/13. Cuidado, las piedras respiran.unity
+    guid: 107649fe87fe48042ad4667b1b58007b
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/14. El Molino.unity
+    guid: 90374050aaa0d254882bba33e4ea5033
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/15. Descenso entre Molinos.unity
+    guid: 378886ec573e90c45b383d4ca3104122
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/16. Triple Molino.unity
+    guid: 7d869d646761edc459e49ca34337bc05
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/17. El Laberinto.unity
+    guid: 876673e69f818364093ced7a9fc7c0ed
+  - enabled: 1
+    path: Assets/Scenes/Primera Partida/18. La superficie.unity
+    guid: 75f0f66a4321ce04c9bf97c55ec45eb8
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/1. Despegue EX.unity
+    guid: 7b8730d0446e34c448bf970f01aa3ed1
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/2. Diente de leche EX.unity
+    guid: 501554f22fc230946afdd976212afeb8
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/3. La Mandibula EX.unity
+    guid: ca69ca77835252f459fbd45c17662bab
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/4. El Descenso EX.unity
+    guid: 8498b628e312dbb4fa3be0ffab8ced5b
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/5. Segundo Descenso EX.unity
+    guid: 5821ecb77dc1ea240a5f9741fbf6620b
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/6. Piedras Gravitacionales EX.unity
+    guid: 9f904dc989b120d498196d97756c71b2
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/7. Piedras traicioneras EX.unity
+    guid: 2cc596c888429ec4da83e41c0bd78fea
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/8. Rocas 3D EX.unity
+    guid: a91cfe61069dd984f9b335147f173c9d
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/9. El Molino EX.unity
+    guid: 52b24ce7a586d2a42b0d019bbd71bec6
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/10. Rocas 3D 4K EX.unity
+    guid: 84de19579f3cda04e83b2f742f28546c
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/11. Ascenso Gravitacional EX.unity
+    guid: afec46addecf85c40a77b188135e80a5
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/12. Cuidado, las piedras respiran EX.unity
+    guid: 25156b73574b4a84291611bc84e46f67
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/13. Descenso entre Molinos EX.unity
+    guid: d2adba052c14c4d4990c0cdb069eb9ad
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/14. Piedras Gravitacionales Caoticas EX.unity
+    guid: d7b7c7fff77162c4eba9e7e36f2b7a82
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/15. Triple Molino EX.unity
+    guid: 4f8659472da01f14c87fdcdc6fa6b38b
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/16. El Laberinto EX.unity
+    guid: 7291a3f28c991824b8dda02a2ea625f7
+  - enabled: 1
+    path: Assets/Scenes/Segunda Partida/17. La superficie EX.unity
+    guid: 6c65b9b207e2457468e5ac6b010f6c0b
+  m_configObjects: {}
